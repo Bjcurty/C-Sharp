@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.dll
+C:\Users\User\Desktop\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.pdb
+C:\Users\User\Desktop\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.dll
+C:\Users\User\Desktop\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.pdb
+C:\Users\User\Desktop\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.csprojResolveAssemblyReference.cache
+F:\#CS1181\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.dll
+F:\#CS1181\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.pdb
+F:\#CS1181\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.csprojResolveAssemblyReference.cache
+F:\#CS1181\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.dll
+F:\#CS1181\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.pdb
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.dll
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\bin\Debug\LibraryObjects.pdb
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.csprojAssemblyReference.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.csproj.CoreCompileInputs.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.dll
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\LibraryObjects\obj\Debug\LibraryObjects.pdb

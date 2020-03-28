@@ -1,0 +1,77 @@
+﻿<Window x:Class="Deliverable_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Deliverable_6"
+        mc:Ignorable="d"
+        Title="Firefly on (even more of) a Budget" Height="738.198" Width="1463.267" KeyUp="Window_KeyUp" IsTabStop="True">
+    <Grid x:Name="grdMain">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="grdMap" Grid.Row= "1" Grid.ColumnSpan="8" Grid.RowSpan="3" UseLayoutRounding="False">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Button x:Name="btnStart" Content="Start/Reset Map" Grid.Row="4" Grid.RowSpan="3" Click="btnStart_Click"/>
+        <Button x:Name="btnUp" Content="Up" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="1" Click="btnMove_Click"/>
+        <Button x:Name="btnLeft" Content="Left" Grid.Row="5" Grid.Column="1" Click="btnMove_Click"/>
+        <Button x:Name="btnRight" Content="Right" Grid.Row="5" Grid.Column="2" Click="btnMove_Click"/>
+        <Button x:Name="btnDown" Content="Down" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="1" Click="btnMove_Click"/>
+        <Label x:Name="lblName" Content="Name:" Grid.Column="3" Grid.Row="4" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblHP" Content="HP:" Grid.Column="3" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblWeapon" Content="Weapon:" Grid.Row="6" Grid.Column="3" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblKey" Content="Key:" Grid.Row="4" Grid.Column="6" />
+        <Label x:Name="lblDamage" Content="Damage:" Grid.Row="6" Grid.Column="6" />
+        <Label x:Name="tbDamage" Content="" Grid.Row="6" Grid.Column="7" />
+        <Label x:Name="tbName" Grid.Column="5" Grid.Row="4"/>
+        <Label x:Name="tbHP" Grid.Column="5" Grid.Row="5"/>
+        <Label x:Name="tbWeapon" Grid.Column="5" Grid.Row="6"/>
+        <Label x:Name="tbKey" Grid.Column="8" Grid.Row="4"/>
+        <Menu x:Name="menu" Grid.ColumnSpan="8" >
+            <MenuItem x:Name="miFile" Header="File" Click="miFile_Click">
+                <MenuItem x:Name="miLoadGame" Header="Load Game" Click="miLoadGame_Click"/>
+                <MenuItem x:Name="miSaveGame" Header="Save Game" Click="miSaveGame_Click"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

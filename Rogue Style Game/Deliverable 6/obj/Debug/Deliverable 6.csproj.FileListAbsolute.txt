@@ -1,0 +1,70 @@
+F:\#CS1181\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe.config
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csprojResolveAssemblyReference.cache
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmItem.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\App.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.cache
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.lref
+F:\#CS1181\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe
+F:\#CS1181\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.pdb
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmItem.baml
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.baml
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.baml
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.g.resources
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable_6.Properties.Resources.resources
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csproj.GenerateResource.Cache
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.exe
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.pdb
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe.config
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.exe
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.pdb
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.pdb
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\frmItem.g.cs
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.g.cs
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.cache
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.lref
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\frmItem.baml
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.baml
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.g.resources
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable_6.Properties.Resources.resources
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.dll
+C:\Users\User\Desktop\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.pdb
+F:\#CS1181\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.dll
+F:\#CS1181\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.pdb
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmGameOver.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\frmGameOver.baml
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Character.g.cs
+F:\#CS1181\Deliverable 6\Deliverable 6\obj\Debug\Character.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe.config
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.exe
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\bin\Debug\Deliverable 6.pdb
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.dll
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\bin\Debug\LibraryObjects.pdb
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csprojAssemblyReference.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Character.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmGameOver.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmItem.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\App.g.cs
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6_MarkupCompile.lref
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Character.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmGameOver.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmItem.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\frmMonster.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\MainWindow.baml
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.g.resources
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable_6.Properties.Resources.resources
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csproj.GenerateResource.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csproj.CoreCompileInputs.cache
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.csproj.CopyComplete
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.exe
+C:\Users\curtb\Downloads\Brad Curtis - Deliverable 7\Deliverable 6\Deliverable 6\obj\Debug\Deliverable 6.pdb

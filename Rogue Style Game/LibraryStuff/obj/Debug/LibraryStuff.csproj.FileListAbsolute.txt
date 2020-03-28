@@ -1,0 +1,10 @@
+F:\#CS1181\LibraryStuff\LibraryStuff\bin\Debug\LibraryStuff.dll
+F:\#CS1181\LibraryStuff\LibraryStuff\bin\Debug\LibraryStuff.pdb
+F:\#CS1181\LibraryStuff\LibraryStuff\obj\Debug\LibraryStuff.csprojResolveAssemblyReference.cache
+F:\#CS1181\LibraryStuff\LibraryStuff\obj\Debug\LibraryStuff.dll
+F:\#CS1181\LibraryStuff\LibraryStuff\obj\Debug\LibraryStuff.pdb
+F:\#CS1181\Deliverable 5\LibraryStuff\bin\Debug\LibraryStuff.dll
+F:\#CS1181\Deliverable 5\LibraryStuff\bin\Debug\LibraryStuff.pdb
+F:\#CS1181\Deliverable 5\LibraryStuff\obj\Debug\LibraryStuff.csprojResolveAssemblyReference.cache
+F:\#CS1181\Deliverable 5\LibraryStuff\obj\Debug\LibraryStuff.dll
+F:\#CS1181\Deliverable 5\LibraryStuff\obj\Debug\LibraryStuff.pdb
